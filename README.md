@@ -31,6 +31,7 @@ $ make up-scheduler
 [![Image from Gyazo](https://i.gyazo.com/d866fccf999a34478063eb88aa167677.png)](https://gyazo.com/d866fccf999a34478063eb88aa167677)
 
 ## 再集計
+- タスクをクリアすると再実行される
 
 # 参考
 - [ApacheAirflowワークフロープログラミング入門](https://booth.pm/ja/items/3103934)
